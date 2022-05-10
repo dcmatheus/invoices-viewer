@@ -1,0 +1,6 @@
+[submodule "invoices-viewer-page"]
+	path = invoices-viewer-page
+	url = https://github.com/dcmatheus/invoices-viewer-page
+[submodule "invoices-viewer-api"]
+	path = invoices-viewer-api
+	url = https://github.com/dcmatheus/invoices-viewer-api
